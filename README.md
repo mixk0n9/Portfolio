@@ -20,30 +20,31 @@
 
 ## :computer:Project
 
-1. :video_game: 언어모델 기반 게임 봇 탐지 분석
-> **학회 논문**
+**1. :video_game: 언어모델 기반 게임 봇 탐지 분석**
+
+- 학회 논문
 
 > :link: [프로젝트 설명](https://github.com/mixk0n9/Kakaogames2024_paper)
 
-2. :video_game: 언어모델과 머신러닝 기반 게임 봇 탐지 분석
-> **석사 졸업 논문(작성 중)**
+**2. :video_game: 언어모델과 머신러닝 기반 게임 봇 탐지 분석**
+- 석사 졸업 논문(작성 중)
 
-3. :video_game: 재화 기반 게임 봇 탐지 분석
+**3. :video_game: 재화 기반 게임 봇 탐지 분석**
 > :link: [프로젝트 설명](https://github.com/mixk0n9/Kakaogames2023)
 
-4. :office: LLM과 추천 시스템 기반의 기업 매칭 서비스
+**4. :office: LLM과 추천 시스템 기반의 기업 매칭 서비스**
 > :link: [프로젝트 설명](https://github.com/mixk0n9/Tri-fusion_mapping)
 
-6.  :briefcase: LG전자 B2B 영업 성공 예측 및 분석
+**6.  :briefcase: LG전자 B2B 영업 성공 예측 및 분석**
 > :link: [프로젝트 설명](https://github.com/mixk0n9/LG_Aimers_4)
 
-7. :mag_right: 언어 모델을 활용한 전통시장 활성화
+**7. :mag_right: 언어 모델을 활용한 전통시장 활성화**
 > :link: [프로젝트 설명](https://github.com/mixk0n9/Gwangjin-gu)
 
-8. :wrench: MLOps를 활용한 이커머스 고객 이탈 예측
+**8. :wrench: MLOps를 활용한 이커머스 고객 이탈 예측**
 > :link: [프로젝트 설명](https://github.com/mixk0n9/MLOps_project)
 
-9. :factory: LG전자 공정 불량 예측 분석
+**9. :factory: LG전자 공정 불량 예측 분석**
 > :link: [프로젝트 설명](https://github.com/mixk0n9/LG_Aimers_5)
 
 
