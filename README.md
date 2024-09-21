@@ -22,11 +22,11 @@
 
 1. :video_game: 언어모델 기반 게임 봇 탐지 분석
 > **학회 논문**
+
 > :link: [프로젝트 설명](https://github.com/mixk0n9/Kakaogames2024_paper)
 
 2. :video_game: 언어모델과 머신러닝 기반 게임 봇 탐지 분석
 > **석사 졸업 논문(작성 중)**
-> 
 
 3. :video_game: 재화 기반 게임 봇 탐지 분석
 > :link: [프로젝트 설명](https://github.com/mixk0n9/Kakaogames2023)
