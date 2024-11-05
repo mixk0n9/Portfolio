@@ -33,6 +33,7 @@
 
 **3. :video_game: 재화 기반 게임 봇 탐지 분석**
 > :link: [프로젝트 설명](https://github.com/mixk0n9/Kakaogames2023)
+- 게임 데이터 분석 및 모델링을 배우는 것에 의의
 
 
 **4. :office: LLM과 추천 시스템 기반의 기업 매칭 서비스**
